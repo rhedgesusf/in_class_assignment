@@ -26,3 +26,11 @@ if (score >= 60) {
 for (let i = 10; i >= 1; i--) {
     console.log("Descending Order", i);
 };
+
+// Task 4
+
+let number = 2;
+while (number <= 10) {
+    console.log(number);
+    number += 2;
+};

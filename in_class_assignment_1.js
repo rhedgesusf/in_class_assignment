@@ -34,3 +34,11 @@ while (number <= 10) {
     console.log(number);
     number += 2;
 };
+
+// Task 5
+
+let num = 5
+function calculateSquare(num) {
+    return num * 5    
+};
+console.log(calculateSquare(5));
